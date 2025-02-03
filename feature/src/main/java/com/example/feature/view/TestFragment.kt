@@ -1,4 +1,4 @@
-package com.example.feature
+package com.example.feature.view
 
 import android.os.Bundle
 import android.view.LayoutInflater
@@ -7,6 +7,7 @@ import android.view.ViewGroup
 import androidx.fragment.app.Fragment
 import com.example.core.di.ApplicationProvider
 import com.example.core.di.IApp
+import com.example.feature.di.component.TestComponentHolder
 import javax.inject.Inject
 import com.example.feature.databinding.TestFragmentBinding
 

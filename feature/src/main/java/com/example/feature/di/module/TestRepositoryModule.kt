@@ -1,5 +1,7 @@
-package com.example.feature
+package com.example.feature.di.module
 
+import com.example.feature.repository.TestRepository
+import com.example.feature.repository.TestRepositoryImpl
 import dagger.Binds
 import dagger.Module
 

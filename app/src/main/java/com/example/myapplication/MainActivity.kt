@@ -6,7 +6,7 @@ import androidx.appcompat.app.AppCompatActivity
 import androidx.core.view.ViewCompat
 import androidx.core.view.WindowInsetsCompat
 import com.example.core.di.IApp
-import com.example.feature.TestFragment
+import com.example.feature.view.TestFragment
 import com.example.myapplication.di.MainActivityComponent
 
 class MainActivity : AppCompatActivity() {

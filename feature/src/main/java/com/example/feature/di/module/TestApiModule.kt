@@ -1,14 +1,11 @@
-package com.example.feature
+package com.example.feature.di.module
 
 import com.example.core.data.network.FirstTestApi
-import com.example.core.data.network.RetrofitImpl
 import com.example.core.data.network.SecondTestApi
 import dagger.Module
 import dagger.Provides
 import retrofit2.Retrofit
 import javax.inject.Named
-import javax.inject.Inject
-import javax.inject.Singleton
 
 @Module
 class TestApiModule {

@@ -1,4 +1,4 @@
-package com.example.feature
+package com.example.feature.repository
 
 import com.example.core.data.network.FirstTestApi
 import com.example.core.data.network.SecondTestApi

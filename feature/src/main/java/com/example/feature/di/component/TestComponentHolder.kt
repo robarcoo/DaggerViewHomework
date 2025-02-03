@@ -1,4 +1,4 @@
-package com.example.feature
+package com.example.feature.di.component
 
 import com.example.core.di.ApplicationProvider
 import com.example.core.di.ComponentHolder

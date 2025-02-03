@@ -1,6 +1,5 @@
-package com.example.feature
+package com.example.feature.repository
 
-import com.example.core.data.network.RetrofitImpl
 import kotlinx.coroutines.flow.Flow
 
 interface TestRepository {
